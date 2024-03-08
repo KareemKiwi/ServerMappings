@@ -1,0 +1,38 @@
+{
+    "id": "kiwismp",
+    "name": "KiwiSMP",
+    "store": "https://store.kiwismp.fun/",
+    "description": "A Minecraft Earth Server For Bedrock and Java Crossplay",
+    "addresses": [
+        "play.kiwismp.fun",
+        "kiwismp.fun"
+    ],
+    "primaryAddress": "kiwismp.fun",
+    "primaryColor": "#82f975",
+    "secondaryColor": "#f0b01f",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20"
+    ],
+    "primaryMinecraftVersion": "1.20",
+    "crossplay": true,
+    "primaryRegion": "EU",
+    "regions": [
+        "NA",
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "Minigames",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/kiwismp",
+        "youtube": "KiwiSMP",
+        "tiktok": "kiwiismp"
+    }
+}
